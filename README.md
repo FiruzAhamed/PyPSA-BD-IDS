@@ -1,7 +1,7 @@
 # PyPSA-BD-IDS  
 
 ## Overview  
-This repository presents the **PyPSA-BD-IDS** application, an open-source and fully reproducible power system model for Bangladesh. The model is built on the PyPSA-Earth framework and extended to integrate both **demand- and supply-side solutions**, including energy efficiency (EE) and demand-side flexibility (DSF). The model supports strategic planning and policy development by simulating long-term scenarios for a clean, affordable, and reliable electricity system in Bangladesh.  
+This repository presents the **PyPSA-BD-IDS** application, an open-source and fully reproducible power system model for Bangladesh. The model is built on the PyPSA-Earth v0.3.0 framework and extended to integrate both **demand- and supply-side solutions**, including energy efficiency (EE) and demand-side flexibility (DSF). The model supports strategic planning and policy development by simulating long-term scenarios for a clean, affordable, and reliable electricity system in Bangladesh.  
 
 ## Key Features  
 - **Integrated Pathways**: First Bangladesh-specific model combining EE and DSF with supply-side expansion to model decarbonization pathway of power sector.  
